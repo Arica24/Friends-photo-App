@@ -1,7 +1,7 @@
 """Friends Photo App.
 
 Coursework starter template: Girish Lukka.
-Portfolio edition for Arica Bhuiyan, completed with AI assistance.
+Portfolio edition for Arica Bhuiyan.
 Original coursework specification was not supplied; see README for scope.
 """
 import json
